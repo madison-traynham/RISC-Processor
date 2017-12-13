@@ -1,0 +1,742 @@
+m255
+K3
+13
+cModel Technology
+dC:\Modeltech_pe_edu_6.4a\examples
+Ealu32
+Z0 !s101 -O0 -O0 -O0 -O0 -O0
+Z1 w1224262620
+Z2 DPx4 work 12 constantspkg 0 22 R4E4LX:FC47MFzaM]ndEZ3
+Z3 DPx4 ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z5 dZ:\Chris On My Mac\Documents\Classes\ECEC 490 (Processor Design)\pipelined
+Z6 8Z:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/ALU32.vhd
+Z7 FZ:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/ALU32.vhd
+l0
+L13
+VN=>@m;8OZMKJ`NQlo;lMz1
+Z8 OP;C;6.4a;39
+Z9 !s101 -O0 -O0 -O0 -O0 -O0
+32
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+!s100 SB^TM2d?5DH]LO:fHQ8=L2
+Abehavioral
+R2
+R3
+R4
+DEx4 work 5 alu32 0 22 N=>@m;8OZMKJ`NQlo;lMz1
+l27
+L23
+VS9T?^AdA9^G>VHF^LDLR@0
+R8
+32
+Z12 Mx3 4 ieee 14 std_logic_1164
+Z13 Mx2 4 ieee 11 numeric_std
+Z14 Mx1 4 work 12 constantspkg
+R10
+R11
+!s100 dIY]F^WjJIMiBgiQJaF>K3
+Pcomponentspkg
+R2
+R4
+Z15 w1226207957
+R5
+Z16 8Z:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/ComponentsPkg.vhd
+Z17 FZ:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/ComponentsPkg.vhd
+l0
+L13
+VbVMgU7K]dBCiN37WI]S;g2
+R8
+Z18 !s101 -O0 -O0 -O0 -O0
+32
+Z19 Mx2 4 ieee 14 std_logic_1164
+R14
+R10
+R11
+!s101 -O0 -O0 -O0 -O0 -O0 -O0
+!s100 _8@R4Io5HJDZI?A:a1=Wn2
+Bbody
+DBx4 work 13 componentspkg 0 22 bVMgU7K]dBCiN37WI]S;g2
+R2
+R4
+l0
+L307
+VbFM6YdCPCFAL<@^mfzSY53
+R8
+32
+R19
+R14
+R10
+R11
+nbody
+!s100 Xl6Vz[C<ioU5eWzVVYgl[1
+Pconstantspkg
+R18
+R4
+Z20 w1224262713
+R5
+Z21 8Z:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/ConstantsPkg.vhd
+Z22 FZ:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/ConstantsPkg.vhd
+l0
+L12
+VR4E4LX:FC47MFzaM]ndEZ3
+R8
+32
+Z23 Mx1 4 ieee 14 std_logic_1164
+R10
+R11
+!s100 _XCnJ?Nh[o;mjz;I6e1YW2
+!s101 -O0 -O0
+Bbody
+DBx4 work 12 constantspkg 0 22 R4E4LX:FC47MFzaM]ndEZ3
+R4
+l0
+L68
+V9kCICH=CC?[9_5geVjHZ]2
+R8
+32
+R23
+R10
+R11
+nbody
+!s100 MjLOYf@oETE<o6@HWh;K;0
+Econtroller
+R9
+Z24 w1226252922
+R2
+R3
+R4
+R5
+Z25 8Z:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/Controller.vhd
+Z26 FZ:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/Controller.vhd
+l0
+L13
+VVMS^BU1G=<ogkzYQcOd@E1
+R8
+R9
+32
+R10
+R11
+!s100 >S[R>OLYFiZDeHMilG7cj2
+Abehavioral
+R2
+R3
+R4
+DEx4 work 10 controller 0 22 VMS^BU1G=<ogkzYQcOd@E1
+l30
+L29
+VMd1]e9dk0hmQUDVdM]4W90
+R8
+32
+R12
+R13
+R14
+R10
+R11
+!s100 RFHb][6:QTdYza663IQB71
+Eex_mem_registers
+Z27 !s101 -O0 -O0 -O0
+Z28 w1226182758
+R3
+R4
+R5
+Z29 8Z:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/EX_MEM_Registers.vhd
+Z30 FZ:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/EX_MEM_Registers.vhd
+l0
+L13
+VCa^>0hTnFa0;5Nz:zboDg0
+R8
+R27
+32
+R10
+R11
+!s100 zmP:5VM7Z`l]AKNm]]Qgo1
+Abehavioral
+R3
+R4
+DEx4 work 16 ex_mem_registers 0 22 Ca^>0hTnFa0;5Nz:zboDg0
+l53
+L51
+VRQOG;ff>c0G;FiY2RHXM81
+R8
+32
+R19
+Z31 Mx1 4 ieee 11 numeric_std
+R10
+R11
+!s100 ZZD:AN:A@U_k;Zf]??4Mg2
+Eexecute
+Z32 !s101 -O0 -O0 -O0 -O0 -O0 -O0 -O0
+Z33 w1226253003
+Z34 DPx4 work 13 componentspkg 0 22 bVMgU7K]dBCiN37WI]S;g2
+R2
+R3
+R4
+R5
+Z35 8Z:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/Execute.vhd
+Z36 FZ:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/Execute.vhd
+l0
+L7
+V3;[7aj3kLijHP84hVG?U_3
+R8
+R32
+32
+R10
+R11
+!s100 1839132ATE0agZ54hbGiJ0
+Abehavioral
+R34
+R2
+R3
+R4
+DEx4 work 7 execute 0 22 3;[7aj3kLijHP84hVG?U_3
+l69
+L58
+VW78g^i_SBnSeXVS:[hFDR2
+R8
+32
+Z37 Mx4 4 ieee 14 std_logic_1164
+Z38 Mx3 4 ieee 11 numeric_std
+Z39 Mx2 4 work 12 constantspkg
+Z40 Mx1 4 work 13 componentspkg
+R10
+R11
+!s100 A1K:kLWkTTQ0_M?BKC1<`2
+Eforwardingunit
+R27
+Z41 w1226258430
+R3
+R4
+R5
+Z42 8Z:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/ForwardingUnit.vhd
+Z43 FZ:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/ForwardingUnit.vhd
+l0
+L13
+Vm8Ia=FQoj9CN<`GNb0e4k3
+R8
+R27
+32
+R10
+R11
+!s100 f5gz3Sz5TAV^eoZ][g9mI3
+Abehavioral
+R3
+R4
+DEx4 work 14 forwardingunit 0 22 m8Ia=FQoj9CN<`GNb0e4k3
+l28
+L26
+Vf90e^Mn4W>9e6FOL45dUB0
+R8
+32
+R19
+R31
+R10
+R11
+!s100 c41f;HhLl:GIX4>mj52]=0
+Astructural
+R3
+R4
+DEx4 work 14 forwardingunit 0 22 fK5nANk7gbhho<VBV`MEg0
+l28
+L26
+VBhJNI9bLAK1fW?j71LlU>1
+R8
+32
+R19
+R31
+R10
+R11
+w1226174462
+!s100 63K>:YWz>k@Z=MFS<zBIe2
+Ehazarddetectionunit
+R27
+Z44 w1226201349
+R3
+R4
+R5
+Z45 8Z:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/HazardDetectionUnit.vhd
+Z46 FZ:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/HazardDetectionUnit.vhd
+l0
+L13
+VK>zT8DQgb9^@?=<TP9PEN3
+R8
+R27
+32
+R10
+R11
+!s100 4R34M^DaQP5QSK3RZ[]m10
+Abehavioral
+R3
+R4
+DEx4 work 19 hazarddetectionunit 0 22 K>zT8DQgb9^@?=<TP9PEN3
+l25
+L23
+V=<RFZ]kfT3=I384;^3DJ^1
+R8
+32
+R19
+R31
+R10
+R11
+!s100 A3]2Yg?_NdC5AH7B0o`BZ2
+Astructural
+R3
+R4
+DEx4 work 19 hazarddetectionunit 0 22 ]a1g9Q5]UUl6=h3kTYzT83
+l25
+L23
+V0>7nFn22?gozMcQbMVmB11
+R8
+32
+R19
+R31
+R10
+R11
+w1226174463
+!s100 [NbYYaIb_[=9RzPfP87Qk0
+Eid_ex_registers
+R27
+Z47 w1226182708
+R3
+R4
+R5
+Z48 8Z:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/ID_EX_Registers.vhd
+Z49 FZ:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/ID_EX_Registers.vhd
+l0
+L13
+V=HLU`Llh7@6L>Yz_gJizo1
+R8
+R27
+32
+R10
+R11
+!s100 n<`:PodHKzU26`c2D1HMJ1
+Abehavioral
+R3
+R4
+DEx4 work 15 id_ex_registers 0 22 =HLU`Llh7@6L>Yz_gJizo1
+l69
+L67
+V9<PFeB86<1jH>?>AgD^Lg1
+R8
+32
+R19
+R31
+R10
+R11
+!s100 0f?b`HFInEXUjeDndkQR`1
+Eif_id_registers
+R27
+Z50 w1226182540
+R3
+R4
+R5
+Z51 8Z:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/IF_ID_Registers.vhd
+Z52 FZ:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/IF_ID_Registers.vhd
+l0
+L13
+V``LLG227^Y3aZA[]Jfg743
+R8
+R27
+32
+R10
+R11
+!s100 ?k?^O?SAgLMK;mM[kJlLB1
+Abehavioral
+R3
+R4
+DEx4 work 15 if_id_registers 0 22 ``LLG227^Y3aZA[]Jfg743
+l31
+L29
+VE3Y9o6l>5n2Z4]3@B<NWa3
+R8
+32
+R19
+R31
+R10
+R11
+!s100 ><<LR4lVGMnZai36Jake;2
+Einstructiondecode
+R32
+Z53 w1226198213
+R34
+R2
+R3
+R4
+R5
+Z54 8Z:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/InstructionDecode.vhd
+Z55 FZ:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/InstructionDecode.vhd
+l0
+L7
+VIfl2aG:IH:L9:o27Wdoc13
+R8
+R32
+32
+R10
+R11
+!s100 <Gc3Lmbh:N@^8JHBR3iKh2
+Abehavioral
+R34
+R2
+R3
+R4
+DEx4 work 17 instructiondecode 0 22 Ifl2aG:IH:L9:o27Wdoc13
+l79
+L47
+VMcQZ=BSYG2>Y4hY:3em@i0
+R8
+32
+R37
+R38
+R39
+R40
+R10
+R11
+!s100 ??9CWXX6^]^41?=[;UR661
+Einstructiondecoder
+R27
+Z56 w1224262821
+R3
+R4
+R5
+Z57 8Z:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/InstructionDecoder.vhd
+Z58 FZ:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/InstructionDecoder.vhd
+l0
+L14
+V^^onJ3n]lJF6a63MHGD^i1
+R8
+R27
+32
+R10
+R11
+!s100 ELjT<Pb0g6n1l<2hSPWgi3
+Astructural
+R3
+R4
+DEx4 work 18 instructiondecoder 0 22 ^^onJ3n]lJF6a63MHGD^i1
+l30
+L28
+V[O=daUnfG]X:ZOHK?lg5A2
+R8
+32
+R19
+R31
+R10
+R11
+!s100 8=9;jiJ404W<=PzlegKR23
+Einstructionfetch
+R32
+Z59 w1226256228
+R34
+R2
+R3
+R4
+R5
+Z60 8Z:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/InstructionFetch.vhd
+Z61 FZ:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/InstructionFetch.vhd
+l0
+L7
+V<MJK]jmoLGHD0oO=XZBID3
+R8
+R32
+32
+R10
+R11
+!s100 :5dSk1bS=9Nla?5[2S7hA0
+Abehavioral
+R34
+R2
+R3
+R4
+DEx4 work 16 instructionfetch 0 22 <MJK]jmoLGHD0oO=XZBID3
+l43
+L32
+Vf1]Oj:6UZ:GMTbdn2[:XL3
+!s100 ?6YZFf4Ho9zGzzCVHa?:V0
+R8
+32
+R37
+R38
+R39
+R40
+R10
+R11
+Emem_wb_registers
+R27
+Z62 w1226179749
+R3
+R4
+R5
+Z63 8Z:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/MEM_WB_Registers.vhd
+Z64 FZ:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/MEM_WB_Registers.vhd
+l0
+L13
+V614e^RD8_I74@e_Y]Z7OF1
+R8
+R27
+32
+R10
+R11
+!s100 4l<OP@Ez=:?X?OB99=EYY3
+Abehavioral
+R3
+R4
+DEx4 work 16 mem_wb_registers 0 22 614e^RD8_I74@e_Y]Z7OF1
+l40
+L38
+VnSG@JY1ld[0f?Q36jHnzj0
+R8
+32
+R19
+R31
+R10
+R11
+!s100 zl5;lVc:3C7:Ho:z<QW1f3
+Ememory
+R9
+Z65 w1224262907
+R2
+R3
+R4
+R5
+Z66 8Z:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/Memory.vhd
+Z67 FZ:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/Memory.vhd
+l0
+L14
+VbX[iDj5TYMfWK@]`6ln813
+R8
+R9
+32
+R10
+R11
+!s100 NQW2e_Z<D28lz^:PBbf]I1
+Abehavioral
+R2
+R3
+R4
+DEx4 work 6 memory 0 22 bX[iDj5TYMfWK@]`6ln813
+l33
+L29
+VAVH6GPh5KF1AfAMGLJ1V_0
+R8
+32
+R12
+R13
+R14
+R10
+R11
+!s100 7o5Ca?0lVV0?J15ibc3]j1
+Ememoryaccess
+R32
+Z68 w1226199846
+R34
+R2
+R3
+R4
+R5
+Z69 8Z:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/MemoryAccess.vhd
+Z70 FZ:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/MemoryAccess.vhd
+l0
+L7
+VRWFmfA[cKLQJFkEAUQ5Sd1
+!s100 cD]K4fXi<:^GPn6CXd34c3
+R8
+R32
+32
+R10
+R11
+Abehavioral
+R34
+R2
+R3
+R4
+Z71 DEx4 work 12 memoryaccess 0 22 RWFmfA[cKLQJFkEAUQ5Sd1
+l47
+L42
+Z72 VIlAQXOa[]k6<=@V`JEgnQ0
+Z73 !s100 4]DHHg6@IJzIaXQ4_cz;00
+R8
+32
+R37
+R38
+R39
+R40
+R10
+R11
+Eprocessor
+R32
+Z74 w1226258526
+R34
+R2
+R3
+R4
+R5
+Z75 8Z:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/Processor.vhd
+Z76 FZ:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/Processor.vhd
+l0
+L14
+V=>C7UL>HPFgjeM?GACkDd3
+R8
+R32
+32
+R10
+R11
+!s100 [RF]j9@aFjFVH3kWY:EgJ0
+Astructural
+R34
+R2
+R3
+R4
+DEx4 work 9 processor 0 22 =>C7UL>HPFgjeM?GACkDd3
+l92
+L25
+VJMT]nW3Qd17[=MMOgX6US1
+R8
+32
+R37
+R38
+R39
+R40
+R10
+R11
+!s100 ?cZl=BJgZmFb1hXbKS=WF0
+Eregisterfile
+R27
+Z77 w1224262992
+R3
+R4
+R5
+Z78 8Z:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/RegisterFile.vhd
+Z79 FZ:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/RegisterFile.vhd
+l0
+L12
+V;4[:NbV>81=@d@dIKVm6K0
+R8
+R27
+32
+R10
+R11
+!s100 9`ljSZ178R_eB@4<j40810
+Abehavioral
+R3
+R4
+DEx4 work 12 registerfile 0 22 ;4[:NbV>81=@d@dIKVm6K0
+l31
+L26
+VBYSJS@8T5znU3kKkmJ>>a2
+R8
+32
+R19
+R31
+R10
+R11
+!s100 kfj;gd71Ni<b=W>N7JKn_1
+Esignextender
+R27
+Z80 w1224263037
+R3
+R4
+R5
+Z81 8Z:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/SignExtender.vhd
+Z82 FZ:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/SignExtender.vhd
+l0
+L12
+VghViAcD?9`zFjUbdh:Flg0
+R8
+R27
+32
+R10
+R11
+!s100 ]eiWWi;N1_0=5oi19bASH2
+Abehavioral
+R3
+R4
+DEx4 work 12 signextender 0 22 ghViAcD?9`zFjUbdh:Flg0
+l24
+L23
+V;Pk0gni`e]FZ4f?e2XYXn3
+R8
+32
+R19
+R31
+R10
+R11
+!s100 Dg@:GDm04IU3zDheYooFl3
+Etestbench
+Z83 !s101 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0
+Z84 w1226212101
+R2
+R34
+Z85 DPx4 ieee 15 std_logic_arith 0 22 GJbAT?7@hRQU9IQ702DT]2
+R3
+R4
+R5
+Z86 8Z:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/Testbench.vhd
+Z87 FZ:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/Testbench.vhd
+l0
+L14
+V@2bV><RHGF]9iJ7Id^n9[3
+R8
+R83
+32
+R10
+R11
+!s100 3D4^?:BG7JO^DLS8@<mnF3
+Atest
+R2
+R34
+R85
+R3
+R4
+DEx4 work 9 testbench 0 22 @2bV><RHGF]9iJ7Id^n9[3
+l32
+L18
+V[M;XP5X>X7;LRl=>@f>JH2
+R8
+32
+Mx5 4 ieee 14 std_logic_1164
+Mx4 4 ieee 11 numeric_std
+Mx3 4 ieee 15 std_logic_arith
+Mx2 4 work 13 componentspkg
+R14
+R10
+R11
+!s100 dmSf;CSIWL1gIjTn3=7cA3
+Ewriteback
+R32
+Z88 w1226199818
+R34
+R2
+R3
+R4
+R5
+Z89 8Z:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/WriteBack.vhd
+Z90 FZ:/Chris On My Mac/Documents/Classes/ECEC 490 (Processor Design)/pipelined/WriteBack.vhd
+l0
+L7
+V=7nibLS9h:`6X^Y:l8FAQ0
+R8
+R32
+32
+R10
+R11
+!s100 `_<M@22c29>5zDM]FPz_c3
+Abehavioral
+R34
+R2
+R3
+R4
+DEx4 work 9 writeback 0 22 =7nibLS9h:`6X^Y:l8FAQ0
+l32
+L30
+V]KjYOj]`A<RDCC@H>EDN71
+R8
+32
+R37
+R38
+R39
+R40
+R10
+R11
+!s100 e9lok]Z9cRXJVKO?=;C2L1
